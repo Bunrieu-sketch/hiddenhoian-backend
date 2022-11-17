@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_links_page_links",
+  "info": {
+    "displayName": "pageLinks",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "linkText": {
+      "type": "string",
+      "required": true
+    },
+    "linkUrl": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

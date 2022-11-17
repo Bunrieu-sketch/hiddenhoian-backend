@@ -1,0 +1,44 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "Home Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "aboutTitle": {
+      "type": "string",
+      "required": true
+    },
+    "aboutText": {
+      "type": "text",
+      "required": true
+    },
+    "eatDescription": {
+      "type": "string",
+      "required": true
+    },
+    "travelDescription": {
+      "type": "string",
+      "required": true
+    },
+    "sleepDescription": {
+      "type": "string",
+      "required": true
+    },
+    "seeAndDoDescription": {
+      "type": "string",
+      "required": true
+    },
+    "generalDescription": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
