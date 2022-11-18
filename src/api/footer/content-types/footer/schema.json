@@ -30,6 +30,12 @@
       "repeatable": true,
       "component": "page-links.page-links",
       "required": true
+    },
+    "socialLinks": {
+      "displayName": "Social Links",
+      "type": "component",
+      "repeatable": true,
+      "component": "social-links.social-links"
     }
   }
 }
