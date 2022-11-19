@@ -4,7 +4,8 @@
   "info": {
     "singularName": "map",
     "pluralName": "maps",
-    "displayName": "Maps"
+    "displayName": "Maps",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,7 +17,7 @@
       "required": true
     },
     "mapLink": {
-      "type": "string",
+      "type": "text",
       "required": true
     }
   }
