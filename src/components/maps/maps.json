@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_maps_maps",
+  "info": {
+    "displayName": "Maps"
+  },
+  "options": {},
+  "attributes": {
+    "mapTitle": {
+      "type": "string",
+      "required": true
+    },
+    "mapLink": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

@@ -39,6 +39,13 @@
     "generalDescription": {
       "type": "text",
       "required": true
+    },
+    "Maps": {
+      "displayName": "Maps",
+      "type": "component",
+      "repeatable": true,
+      "component": "maps.maps",
+      "required": true
     }
   }
 }
