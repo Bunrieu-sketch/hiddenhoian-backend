@@ -40,7 +40,7 @@
       "type": "text",
       "required": true
     },
-    "Maps": {
+    "maps": {
       "displayName": "Maps",
       "type": "component",
       "repeatable": true,
