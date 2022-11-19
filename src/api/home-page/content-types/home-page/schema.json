@@ -21,23 +21,23 @@
       "required": true
     },
     "eatDescription": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "travelDescription": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "sleepDescription": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "seeAndDoDescription": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "generalDescription": {
-      "type": "string",
+      "type": "text",
       "required": true
     }
   }

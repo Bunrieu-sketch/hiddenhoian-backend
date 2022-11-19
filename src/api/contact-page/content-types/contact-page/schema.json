@@ -17,14 +17,15 @@
       "required": true
     },
     "pageImage": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
     },
     "infoText": {
-      "type": "string",
+      "type": "text",
       "required": true
     },
     "email": {
