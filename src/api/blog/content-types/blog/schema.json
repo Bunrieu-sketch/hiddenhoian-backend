@@ -34,7 +34,9 @@
       "type": "media",
       "multiple": false,
       "required": true,
-      "allowedTypes": ["images"]
+      "allowedTypes": [
+        "images"
+      ]
     },
     "author": {
       "type": "string",
@@ -46,6 +48,10 @@
     },
     "category": {
       "type": "string",
+      "required": true
+    },
+    "featured": {
+      "type": "boolean",
       "required": true
     }
   }
